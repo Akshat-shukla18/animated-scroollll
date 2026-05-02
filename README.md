@@ -29,6 +29,8 @@ It can be used as:
 ---
 
 ## 🎯 Features
+<img width="1889" height="877" alt="image" src="https://github.com/user-attachments/assets/20dd7133-5e30-472c-bc50-74f0fc423446" />
+
 
 * ⚡ Smooth scrolling with Locomotive Scroll
 * 🎬 Scroll-based animations using GSAP
